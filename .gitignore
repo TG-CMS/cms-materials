@@ -28,5 +28,3 @@ pnpm-debug.log*
 .build/*
 .locales/*
 .eslintcache
-/app
-/scaffolds/ci-*
